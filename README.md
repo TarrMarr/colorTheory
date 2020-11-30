@@ -17,8 +17,8 @@ Project was a study of colour theory for UI where we were given the base of the 
 
 ## Screenshots
 
-![Example screenshot](screenshot1.jpg)
-![Example screenshot](screenshot2.jpg)
+![Example screenshot](https://github.com/TarrMarr/colorTheory/blob/main/screenshot1.JPG)
+![Example screenshot](https://github.com/TarrMarr/colorTheory/blob/main/screenshot2.JPG)
 
 ## Technologies
 
